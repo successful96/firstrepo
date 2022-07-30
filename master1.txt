@@ -1,1 +1,1 @@
-this is my 2nd file in the git modification
+this is my 2nd file in the git modification of files
